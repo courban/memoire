@@ -1,8 +1,10 @@
 { 
+  "version": 1,
   "payload": [{
     "id": 1,
-    "name": "First Presidents of the United States",
+    "title": "First Presidents of the United States",
     "author": "pc",
+    "lang": "en",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
     "date_added": "1720103711236",
     "content": [
