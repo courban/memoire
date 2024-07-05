@@ -11,13 +11,13 @@
       {
         "id": 1,
         "name": "George Washington",
-        "cover": "https://en.wikipedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/300px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
         "description": "1789 – 1797 (Unaffiliated)"
       },
       {
         "id": 2,
         "name": "John Adams",
-        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/300px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/John_Adams_A18236.jpg/300px-John_Adams_A18236.jpg",
         "description": "1797 – 1801 (Federalist)"
       },
       {
